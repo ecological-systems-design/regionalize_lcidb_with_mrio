@@ -15,7 +15,8 @@ Table of contents
 5. Software requirements
 6. Model structure
 7. Obtaining and placing the input data
-8. Reporting errors or suggestions
+8. Acknowledgments
+9. Welcome contributions
 
 ----------------------------
 
