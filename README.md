@@ -112,7 +112,11 @@ Local input data:<br />
    - Source: Adrian Haas, Master thesis, July 2016.<br />
 
 ----------------------------
+8. Acknowledgments
+We thank Adrian Haas (former staff in ETH Zurich) very much for his significant contributions to the regionalization algorithm and development of the PyPardiso library for solving large sparse systems of linear equations.
 
-8. Welcome contributions
+----------------------------
+
+9. Welcome contributions
 
 Even though the model and its outputs have been carefully tested and reviewed, it is possible that it contains errors or could be improved for ease of use and efficiency of calculation. The authors highly value such input and therefore welcome to open issues at github and welcome any bug reports or suggestions that are submitted to sipeng@ethz.ch. In case the model is updated, it will be shown at github under an updated version number. A list of changes between versions will be included in the file "README.md".
