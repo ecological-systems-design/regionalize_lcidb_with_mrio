@@ -117,4 +117,4 @@ Local input data:<br />
 
 8. Welcome contributions
 
-Even though the model and its outputs have been carefully tested and reviewed, it is possible that it contains errors or could be improved for ease of use and efficiency of calculation. The authors highly value such input and therefore welcome to open issues at github and welcome any bug reports or suggestions that are submitted to sipeng@ethz.ch. In case the model is updated, it will be shown at github under an updated version number. A list of changes between versions will be included in the file "Readme.txt".
+Even though the model and its outputs have been carefully tested and reviewed, it is possible that it contains errors or could be improved for ease of use and efficiency of calculation. The authors highly value such input and therefore welcome to open issues at github and welcome any bug reports or suggestions that are submitted to sipeng@ethz.ch. In case the model is updated, it will be shown at github under an updated version number. A list of changes between versions will be included in the file "README.md".
