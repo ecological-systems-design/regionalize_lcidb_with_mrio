@@ -3,7 +3,7 @@ Instructions for running the regionalization algorithm
 
 Authors: Sidi Peng, Stephan Pfister<br />
 Institution: ETH Zurich; Dept. of Civil, Environmental and Geomatic Engineering; Institute of Environmental Engineering; Ecological Systems Design<br />
-Contact: sipeng@ethz.ch
+Contact: sipeng@ethz.ch, stephan.pfister@ifu.baug.ethz.ch
 
 ---------------------------
 Table of contents
