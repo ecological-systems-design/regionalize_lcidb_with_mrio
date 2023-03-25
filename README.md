@@ -47,9 +47,7 @@ Change notes version 1.0: -
 
 3. License 
 
-This dataset is released under a CC BY 4.0 (Creative Commons Attribution 4.0 International) licence [check]. This licence allows you to share, copy and modify the dataset as long as you give credit to the authors, provide a link to the CC BY license, and indicate if changes were made. In this specific case, please reference the scientific publication that is the original data source of the dataset (http://dx.doi.org/10.1021/acs.est.0c05691). You may not use the dataset in a way that suggests the rights holder has endorsed you or your use of the dataset. Further permissions are required for the content within the dataset that is identified as belonging to a third party.
-
-For further information, please have a look at https://creativecommons.org/licenses/by/4.0/.
+This repository is released under a BSD 3-Clause "New" or "Revised" License. This licence allows you to share, copy and modify the repository as long as you give credit to the authors. In this specific case, please reference the scientific publication that is the original data source of the repository (-------------). You may not use the repository in a way that suggests the rights holder has endorsed you or your use of the repository. Further permissions are required for the content within the repository that is identified as belonging to a third party.
 
 ----------------------------
 
