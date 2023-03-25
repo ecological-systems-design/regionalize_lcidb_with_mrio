@@ -1,5 +1,7 @@
+
+=================
 Instructions for running the regionalization algorithm
-=========================
+=================
 
 
 Authors: Sidi Peng, Stephan Pfister
