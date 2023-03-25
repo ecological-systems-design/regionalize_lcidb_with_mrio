@@ -94,7 +94,7 @@ Input data to be obtained:<br />
 Local input data:<br />
 (1) eiv3.7_geographies_names_coordinates_shortcuts_overlaps.xlsx<br />
    - Content: It contains list of geographies and intersections in ecoinvent v3.7.1.<br />
-   - Source: This version not available from ecoinvent anymore and saved as local file here. The new version can be found from here (https://ecoinvent.org/the-ecoinvent-database/geographies/). <br />
+   - Source: It is from ecoinvent Association but not available online anymore. It is saved as local file here. <br />
    
 (2) country-and-continent-codes-list-added-ME.xlsx <br />
    - Source: https://gist.github.com/stevewithington/20a69c0b6d2ff846ea5d35e5fc47f26c, accessed on 17/01/2023.<br />
