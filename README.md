@@ -110,7 +110,7 @@ Local input data:<br />
    
 (5) wateruse_elementary_flows_factors.json<br />
    - Content: This files list water use related elementary flows in ecoinvent, which will be assigned with the AWARE CFs.<br />
-   - Source: Adrian Haas, Master thesis, July 2016.<br />. Available on request.
+   - Source: Adrian Haas, Master thesis, July 2016. Available on request.<br />
 
 ----------------------------
 <h3 id="8">8. Acknowledgments</h3>
