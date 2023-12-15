@@ -22,7 +22,7 @@ Table of contents
 
 <h3 id="1">1. General information</h3>
 
-This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper (under review):
+This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper (**under review**):
 
 Title: Regionalizing the supply chain in process life cycle inventory with multiregional input-output data: an implementation for ecoinvent with EXIOBASE
 Authors: Sidi Peng, Stephan Pfister<br />
@@ -40,7 +40,7 @@ The general status of the model has to be considered "under development" as it r
 
 <h3 id="2">2. Version history</h3>
 
-2023-02-28: Release of version 1.0
+2023-12-15: Release of version 1.0
 
 Change notes version 1.0: -
 
@@ -48,7 +48,7 @@ Change notes version 1.0: -
 
 <h3 id="3">3. License </h3>
 
-This repository is released under a BSD 3-Clause "New" or "Revised" License. This licence allows you to share, copy and modify the repository as long as you give credit to the authors. In this specific case, please reference the scientific publication (under review) that is the original data source of the repository. You may not use the repository in a way that suggests the rights holder has endorsed you or your use of the repository. Further permissions are required for the content within the repository that is identified as belonging to a third party.
+This repository is released under a BSD 3-Clause "New" or "Revised" License. This licence allows you to share, copy and modify the repository as long as you give credit to the authors. In this specific case, please reference the scientific publication (**under review**) that is the original data source of the repository. You may not use the repository in a way that suggests the rights holder has endorsed you or your use of the repository. Further permissions are required for the content within the repository that is identified as belonging to a third party.
 
 ----------------------------
 
