@@ -22,9 +22,9 @@ Table of contents
 
 <h3 id="1">1. General information</h3>
 
-This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following publication:
+This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper (under review):
 
-Title: A novel approach to regionalizing life cycle inventory with multiregional input-output data: an example of ecoinvent with Exiobase
+Title: Regionalizing the supply chain in process life cycle inventory with multiregional input-output data: an implementation for ecoinvent with EXIOBASE
 Authors: Sidi Peng, Stephan Pfister<br />
 Year: <br />
 Journal: <br />
@@ -75,7 +75,7 @@ Package Brightway2 has to be installed in order to run the code successfully. Th
 
 <h3 id="6">6. Model structure</h3>
 
-The general structure of the regionalization algorithm is shown in the publication Figure 1 [----------------]. More technical details are introduced in the main notebook, i.e., 2_3_regionalize_ecoinvent_by_iot.ipynb.
+The general structure of the regionalization algorithm is shown in the manuscript Figure 1. More technical details are introduced in the main notebook, i.e., 2_3_regionalize_ecoinvent_by_iot.ipynb.
 
 ----------------------------
 
