@@ -22,7 +22,7 @@ Table of contents
 
 <h3 id="1">1. General information</h3>
 
-This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper (under review):
+This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper (<span style="color: red">under review</span> ):
 
 Title: Regionalizing the supply chain in process life cycle inventory with multiregional input-output data: an implementation for ecoinvent with EXIOBASE
 Authors: Sidi Peng, Stephan Pfister<br />
