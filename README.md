@@ -1,10 +1,11 @@
-Instructions for running the regionalization algorithm
+Instructions for running the regionalization algorithm <br />
+[![DOI](https://sandbox.zenodo.org/badge/618847225.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.23926) <br />
 =================
 
 Authors: Sidi Peng, Stephan Pfister<br />
 Institution: ETH Zurich; Dept. of Civil, Environmental and Geomatic Engineering; Institute of Environmental Engineering; Ecological Systems Design<br />
 Contact: sipeng@ethz.ch, stephan.pfister@ifu.baug.ethz.ch
-[![DOI](https://sandbox.zenodo.org/badge/618847225.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.23926)
+
 ---------------------------
 Table of contents
 
@@ -21,16 +22,13 @@ Table of contents
 
 <h3 id="1">1. General information</h3>
 
-This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper (**under review**):
+This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper:
 
 Title: Regionalizing the supply chain in process life cycle inventory with multiregional input-output data: an implementation for ecoinvent with EXIOBASE
 Authors: Sidi Peng, Stephan Pfister<br />
-Year: <br />
-Journal: <br />
-Issue: N/A<br />
-Pages: N/A<br />
-Publisher: <br />
-Direct link: ----------------<br />
+Year: 2024<br />
+Journal: Journal of Industrial Ecology<br />
+Publisher: Wiley<br />
 
 The folder "Codes" contains the regionalization algorithm. It includes three subfolders for importing databases, integrating databases, and conduting LCA analysis. The folder "Data" contains some input data and prepared subfolders for output data. <br />
 The general status of the model has to be considered "under development" as it runs reliably but it has not been cleaned and improved for ease of access under all potential circumstances.
@@ -39,7 +37,7 @@ The general status of the model has to be considered "under development" as it r
 
 <h3 id="2">2. License </h3>
 
-This repository is released under a BSD 3-Clause "New" or "Revised" License. This licence allows you to share, copy and modify the repository as long as you give credit to the authors. In this specific case, please reference the scientific publication (**under review**) that is the original data source of the repository. You may not use the repository in a way that suggests the rights holder has endorsed you or your use of the repository. Further permissions are required for the content within the repository that is identified as belonging to a third party.
+This repository is released under a BSD 3-Clause "New" or "Revised" License. This licence allows you to share, copy and modify the repository as long as you give credit to the authors. In this specific case, please reference the scientific publication that is the original data source of the repository. You may not use the repository in a way that suggests the rights holder has endorsed you or your use of the repository. Further permissions are required for the content within the repository that is identified as belonging to a third party.
 
 ----------------------------
 
