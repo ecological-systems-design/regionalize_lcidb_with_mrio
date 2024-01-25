@@ -91,7 +91,7 @@ Local input data:<br />
    
 (3) sector_matching_dicts.pickle<br />
    - Content: This file shows the matching between ecoinvent ISIC codes and exiobase sectors.<br />
-   - Source: Jonas Mehr and Simon Roth. Development of a tool refining the regional resolution in life cycle inventory. Project work report, ETH Zürich, 11 2015. Available on request.
+   - Source: Jonas Mehr and Simon Roth. Development of a tool refining the regional resolution in life cycle inventory. Project work report, ETH Zürich, 11 2015.
    
 (4) AWARE_country_regions_world_april2016_with_modified_region_name.xlsx <br />
    - Source: https://wulca-waterlca.org/aware/download-aware-factors/, accessed on 17/01/2023.<br />
@@ -99,7 +99,7 @@ Local input data:<br />
    
 (5) wateruse_elementary_flows_factors.json<br />
    - Content: This files list water use related elementary flows in ecoinvent, which will be assigned with the AWARE CFs.<br />
-   - Source: Adrian Haas, Master thesis, July 2016. Available on request.<br />
+   - Source: Adrian Haas, Master thesis, July 2016. <br />
 
 ----------------------------
 <h3 id="7">7. Acknowledgments</h3>
