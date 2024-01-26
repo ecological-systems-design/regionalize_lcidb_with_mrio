@@ -24,7 +24,7 @@ Table of contents
 
 This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper:
 
-Title: Regionalizing the supply chain in process life cycle inventory with multiregional input-output data: an implementation for ecoinvent with EXIOBASE
+Title: Regionalizing the supply chain in process life cycle inventory with multiregional input-output data: an implementation for ecoinvent with EXIOBASE <br />
 Authors: Sidi Peng, Stephan Pfister<br />
 Year: 2024<br />
 Journal: Journal of Industrial Ecology<br />
