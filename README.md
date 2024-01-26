@@ -1,5 +1,5 @@
 Instructions for running the regionalization algorithm <br />
-[![DOI](https://sandbox.zenodo.org/badge/618847225.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.23926) <br />
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10573050.svg)](https://doi.org/10.5281/zenodo.10573050) <br />
 =================
 
 Authors: Sidi Peng, Stephan Pfister<br />
