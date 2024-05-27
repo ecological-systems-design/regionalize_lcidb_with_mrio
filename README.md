@@ -1,5 +1,5 @@
 Instructions for running the regionalization algorithm <br />
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10573050.svg)](https://doi.org/10.5281/zenodo.10573050) <br />
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10573050.svg)](https://doi.org/10.5281/zenodo.10573050)
 =================
 
 Authors: Sidi Peng, Stephan Pfister<br />
@@ -24,9 +24,9 @@ Table of contents
 
 This repository contains python codes and parts of input data for generating a regionalized ecoinvent used in the following paper:
 
-Title: Regionalizing the supply chain in process life cycle inventory with multiregional input-output data: an implementation for ecoinvent with EXIOBASE <br />
+Title: [Regionalizing the supply chain in process life cycle inventory with multiregional input-output data: an implementation for ecoinvent with EXIOBASE](https://onlinelibrary.wiley.com/doi/10.1111/jiec.13491) <br />
 Authors: Sidi Peng, Stephan Pfister<br />
-Year: 2024<br />
+First published: 24 May 2024<br />
 Journal: Journal of Industrial Ecology<br />
 Publisher: Wiley<br />
 
